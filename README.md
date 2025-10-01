@@ -10,7 +10,7 @@
 * The other was a list of all Underground stations and their lat and lon coordinates
 
 ## Business Requirements
-* My top requiremnt was for the dataset to be visulaised at the end in the easiest to understand format possible with as much information as possible
+* My top requiremnt was for the dataset to be visualised at the end in the easiest to understand format possible with as much information as possible
 
 ## Hypothesis and how to validate?
 * My Hypothesis is that overall usage would go up over time, as more and more jobs are created everyday in London as well as the population increasing
@@ -33,7 +33,7 @@
 * The dataset was obtained from the TfL open data website 
 
 ## Development Roadmap
-* I noticed during the ETL stage that the Kings Cross St Pancras station could cause a problem, its a hybrid station and an international hub as well as an underground station but the data for Underground footfall was not seperate. As this would be a major outlier and could prove to give false insights I decided to exclude it from my analysis as it's purely focus on Underground stations
+* I noticed during the ETL stage that the Kings Cross St Pancras station could cause a problem, it's a hybrid station and an international hub as well as an underground station but the data for Underground footfall was not seperate. As this would be a major outlier and could prove to give false insights I decided to exclude it from my analysis as it's purely focused on Underground stations
 * I'm really going to focus on data visulaisation techniques as I found the stage difficult in comparison to ETL
 
 ## Main Data Analysis Libraries
